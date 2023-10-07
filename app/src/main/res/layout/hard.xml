@@ -63,7 +63,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="1페이즈"
+                android:text="HP 61.1% 이상"
                 android:textSize="30dp"
                 android:onClick="phase1" />
 
@@ -72,7 +72,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="2페이즈"
+                android:text="HP 31.1% ~ 61.0%"
                 android:textSize="30dp"
                 android:onClick="phase2" />
             <Button
@@ -80,7 +80,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="3페이즈"
+                android:text="HP 31.0% 이하"
                 android:textSize="30dp"
                 android:onClick="phase3" />
 
